@@ -78,19 +78,3 @@ python3 blockchain.py
 [第9课、hash上链](9/readme.md)
 
 > 说明：8.2 文件夹经过测试有问题，不能执行。 8.1 没有测试。8、9、10文件夹内的程序是ok的。
-
-### 赞赏
-
-> 如果我的课程对你有帮助，欢迎赞赏。赞赏的钱将用于出版纸质书籍。
-
-> 赞赏时请备注你的github帐号，我会罗列出来。
-
-<img src="images/wx.jpg" width="350" />
-
-### 交流
-
-微信：cr4fun
-
-知识星球
-
-<img src="images/xq.jpg" width="350" />
